@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "895fade1-2c71-49ec-a05c-c8f5e58da74b",
+    "name": "Fantasy"
+  },
+  {
+    "_id": "2fd6e6de-9133-429a-b609-986beb77da39",
+    "name": "Science Fiction"
+  },
+  {
+    "_id": "73939d05-9b87-4a4b-9ed7-39e94b91d942",
+    "name": "Adventure"
+  },
+  {
+    "_id": "4178b951-237b-4d3c-96d8-8cca7501b88a",
+    "name": "Mystery"
+  },
+  {
+    "_id": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e",
+    "name": "Non-fiction"
+  }
+]

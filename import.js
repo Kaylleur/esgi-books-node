@@ -22,6 +22,9 @@ async function main() {
         // Sélection de la base de données
         const db = client.db(dbName);
 
+        const categories = JSON.parse(fs.readFileSync("categories.json", "utf8"));
+        const result_ = await db.collection('categories').insertMany(categories);
+
         // Lecture du fichier JSON (assure-toi que le fichier existe dans le même dossier)
         const data = JSON.parse(fs.readFileSync("books.json", "utf8"));
 

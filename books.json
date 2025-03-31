@@ -1,146 +1,452 @@
 [
   {
-    "title": "Harry Potter",
+    "title": "Secrets of the Mind 0",
     "author": "J.K. Rowling",
-    "publishDate": "1998-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1002-4",
-    "price": 19.99,
-    "quantity": 5
+    "price": 16.97,
+    "publishDate": "2020-09-30T07:51:11.047336",
+    "isbn": "3-9925-5387-4",
+    "quantity": 20,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
   },
   {
-    "title": "Le Petit Prince",
-    "author": "Antoine de Saint-Exupéry",
-    "publishDate": "1943-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1003-4",
-    "price": 10.99,
-    "quantity": 15
+    "title": "Space Chronicles 1",
+    "author": "Agatha Christie",
+    "price": 49.81,
+    "publishDate": "2014-09-26T07:51:11.047369",
+    "isbn": "2-1084-7117-7",
+    "quantity": 19,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
   },
   {
-    "title": "Le Guide du voyageur galactique",
-    "author": "Douglas Adams",
-    "publishDate": "1979-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1004-4",
-    "price": 15.99,
-    "quantity": 7
+    "title": "Clues in the Dark 2",
+    "author": "George R.R. Martin",
+    "price": 28.05,
+    "publishDate": "2013-09-01T07:51:11.047398",
+    "isbn": "8-4331-1393-8",
+    "quantity": 13,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
   },
   {
-    "title": "1984",
-    "author": "George Orwell",
-    "publishDate": "1949-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1005-4",
-    "price": 12.99,
-    "quantity": 3
-  },
-  {
-    "title": "Le Meilleur des mondes",
-    "author": "Aldous Huxley",
-    "publishDate": "1932-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1006-4",
-    "price": 14.99,
-    "quantity": 8
-  },
-  {
-    "title": "Fondation",
+    "title": "Empire Reborn 3",
     "author": "Isaac Asimov",
-    "publishDate": "1951-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1007-4",
-    "price": 16.99,
-    "quantity": 12
+    "price": 16.14,
+    "publishDate": "2014-09-20T07:51:11.047409",
+    "isbn": "9-9847-6325-3",
+    "quantity": 5,
+    "categoryId": "895fade1-2c71-49ec-a05c-c8f5e58da74b"
   },
   {
-    "title": "Dune",
-    "author": "Frank Herbert",
-    "publishDate": "1965-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1008-4",
-    "price": 18.99,
-    "quantity": 6
+    "title": "Adventures Beyond 4",
+    "author": "Agatha Christie",
+    "price": 20.07,
+    "publishDate": "2012-08-15T07:51:11.047420",
+    "isbn": "6-9406-5395-4",
+    "quantity": 16,
+    "categoryId": "895fade1-2c71-49ec-a05c-c8f5e58da74b"
   },
   {
-    "title": "Le Vieil Homme et la Mer",
-    "author": "Ernest Hemingway",
-    "publishDate": "1952-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1009-4",
-    "price": 11.99,
-    "quantity": 9
+    "title": "Empire Reborn 5",
+    "author": "Isaac Asimov",
+    "price": 15.36,
+    "publishDate": "2013-03-31T07:51:11.047430",
+    "isbn": "9-7676-3909-3",
+    "quantity": 6,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
   },
   {
-    "title": "Les Misérables",
-    "author": "Victor Hugo",
-    "publishDate": "1862-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1010-4",
-    "price": 20.99,
-    "quantity": 4
+    "title": "Mystery of the Lost City 6",
+    "author": "J.K. Rowling",
+    "price": 17.56,
+    "publishDate": "2024-10-29T07:51:11.047440",
+    "isbn": "2-1831-3078-2",
+    "quantity": 7,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
   },
   {
-    "title": "Le Nom de la rose",
-    "author": "Umberto Eco",
-    "publishDate": "1980-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1011-4",
-    "price": 17.99,
-    "quantity": 10
+    "title": "The Wizard's Journey 7",
+    "author": "Agatha Christie",
+    "price": 14.2,
+    "publishDate": "2017-03-31T07:51:11.047455",
+    "isbn": "8-6721-8027-5",
+    "quantity": 9,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
   },
   {
-    "title": "Les Aventures de Sherlock Holmes",
-    "author": "Arthur Conan Doyle",
-    "publishDate": "1892-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1012-4",
-    "price": 13.99,
-    "quantity": 11
+    "title": "Secrets of the Mind 8",
+    "author": "Agatha Christie",
+    "price": 14.71,
+    "publishDate": "2021-04-29T07:51:11.047468",
+    "isbn": "7-3337-7427-6",
+    "quantity": 1,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
   },
   {
-    "title": "Les Trois Mousquetaires",
-    "author": "Alexandre Dumas",
-    "publishDate": "1844-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1013-4",
-    "price": 21.99,
-    "quantity": 2
+    "title": "Empire Reborn 9",
+    "author": "Isaac Asimov",
+    "price": 17.33,
+    "publishDate": "2022-08-07T07:51:11.047479",
+    "isbn": "2-9652-3846-9",
+    "quantity": 9,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
   },
   {
-    "title": "Vingt mille lieues sous les mers",
-    "author": "Jules Verne",
-    "publishDate": "1870-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1014-4",
-    "price": 22.99,
-    "quantity": 1
+    "title": "Dreams and Shadows 10",
+    "author": "Agatha Christie",
+    "price": 28.82,
+    "publishDate": "2024-11-22T07:51:11.047489",
+    "isbn": "3-4215-5189-7",
+    "quantity": 13,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
   },
   {
-    "title": "Les Fleurs du mal",
-    "author": "Charles Baudelaire",
-    "publishDate": "1857-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1015-4",
-    "price": 23.99,
-    "quantity": 0
+    "title": "Clues in the Dark 11",
+    "author": "George R.R. Martin",
+    "price": 13.43,
+    "publishDate": "2019-12-21T07:51:11.047500",
+    "isbn": "5-1208-9490-6",
+    "quantity": 1,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
   },
   {
-    "title": "Les Contemplations",
-    "author": "Victor Hugo",
-    "publishDate": "1856-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1016-4",
-    "price": 24.99,
-    "quantity": 0
+    "title": "The Wizard's Journey 12",
+    "author": "George R.R. Martin",
+    "price": 22.02,
+    "publishDate": "2024-01-04T07:51:11.047511",
+    "isbn": "2-5186-1855-3",
+    "quantity": 7,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
   },
   {
-    "title": "Les Misérables",
-    "author": "Victor Hugo",
-    "publishDate": "1862-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1017-4",
-    "price": 20.99,
-    "quantity": 4
+    "title": "Mystery of the Lost City 13",
+    "author": "J.K. Rowling",
+    "price": 19.01,
+    "publishDate": "2019-10-10T07:51:11.047529",
+    "isbn": "2-4113-5800-2",
+    "quantity": 15,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
   },
   {
-    "title": "Le Nom de la rose",
-    "author": "Umberto Eco",
-    "publishDate": "1980-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1018-4",
-    "price": 17.99,
-    "quantity": 10
+    "title": "Kingdom of Fire 14",
+    "author": "George R.R. Martin",
+    "price": 48.56,
+    "publishDate": "2022-01-04T07:51:11.047540",
+    "isbn": "5-9905-8035-3",
+    "quantity": 5,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
   },
   {
-    "title": "Les Aventures de Sherlock Holmes",
-    "author": "Arthur Conan Doyle",
-    "publishDate": "1892-01-01T19:44:44.244Z",
-    "isbn": "2-7654-1019-4",
-    "price": 13.99,
-    "quantity": 11
+    "title": "Clues in the Dark 15",
+    "author": "Isaac Asimov",
+    "price": 45.64,
+    "publishDate": "2012-01-24T07:51:11.047551",
+    "isbn": "8-5362-7011-6",
+    "quantity": 5,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "Mystery of the Lost City 16",
+    "author": "J.R.R. Tolkien",
+    "price": 47.27,
+    "publishDate": "2021-09-12T07:51:11.047562",
+    "isbn": "9-2665-4148-7",
+    "quantity": 7,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
+  },
+  {
+    "title": "The Wizard's Journey 17",
+    "author": "J.K. Rowling",
+    "price": 29.43,
+    "publishDate": "2012-08-10T07:51:11.047572",
+    "isbn": "7-2010-8449-9",
+    "quantity": 8,
+    "categoryId": "895fade1-2c71-49ec-a05c-c8f5e58da74b"
+  },
+  {
+    "title": "Empire Reborn 18",
+    "author": "J.R.R. Tolkien",
+    "price": 48.86,
+    "publishDate": "2014-12-03T07:51:11.047582",
+    "isbn": "8-2102-4976-7",
+    "quantity": 6,
+    "categoryId": "895fade1-2c71-49ec-a05c-c8f5e58da74b"
+  },
+  {
+    "title": "The Hidden World 19",
+    "author": "J.K. Rowling",
+    "price": 34.92,
+    "publishDate": "2016-07-05T07:51:11.047592",
+    "isbn": "5-4857-1905-7",
+    "quantity": 10,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
+  },
+  {
+    "title": "Clues in the Dark 20",
+    "author": "Isaac Asimov",
+    "price": 44.2,
+    "publishDate": "2023-07-08T07:51:11.047602",
+    "isbn": "7-7956-3054-9",
+    "quantity": 3,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
+  },
+  {
+    "title": "Secrets of the Mind 21",
+    "author": "J.R.R. Tolkien",
+    "price": 26.14,
+    "publishDate": "2014-11-13T07:51:11.047612",
+    "isbn": "4-5846-3136-9",
+    "quantity": 4,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
+  },
+  {
+    "title": "Adventures Beyond 22",
+    "author": "J.K. Rowling",
+    "price": 32.07,
+    "publishDate": "2021-05-28T07:51:11.047622",
+    "isbn": "7-9291-4344-7",
+    "quantity": 14,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
+  },
+  {
+    "title": "Chronicles of the Unknown 23",
+    "author": "George R.R. Martin",
+    "price": 43.81,
+    "publishDate": "2013-06-24T07:51:11.047632",
+    "isbn": "4-3309-8765-5",
+    "quantity": 1,
+    "categoryId": "895fade1-2c71-49ec-a05c-c8f5e58da74b"
+  },
+  {
+    "title": "Clues in the Dark 24",
+    "author": "J.K. Rowling",
+    "price": 22.35,
+    "publishDate": "2024-04-10T07:51:11.047642",
+    "isbn": "7-4697-9315-3",
+    "quantity": 5,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
+  },
+  {
+    "title": "Mystery of the Lost City 25",
+    "author": "J.K. Rowling",
+    "price": 45.58,
+    "publishDate": "2019-11-08T07:51:11.047653",
+    "isbn": "9-8048-4499-8",
+    "quantity": 4,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
+  },
+  {
+    "title": "Secrets of the Mind 26",
+    "author": "George R.R. Martin",
+    "price": 21.78,
+    "publishDate": "2015-12-19T07:51:11.047663",
+    "isbn": "4-8909-2409-7",
+    "quantity": 19,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
+  },
+  {
+    "title": "Chronicles of the Unknown 27",
+    "author": "Agatha Christie",
+    "price": 12.29,
+    "publishDate": "2013-01-13T07:51:11.047673",
+    "isbn": "5-8852-5196-3",
+    "quantity": 7,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "Secrets of the Mind 28",
+    "author": "J.K. Rowling",
+    "price": 33.15,
+    "publishDate": "2013-11-13T07:51:11.047683",
+    "isbn": "6-1115-9952-4",
+    "quantity": 17,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
+  },
+  {
+    "title": "Adventures Beyond 29",
+    "author": "Agatha Christie",
+    "price": 27.17,
+    "publishDate": "2023-03-06T07:51:11.047705",
+    "isbn": "7-2815-8042-7",
+    "quantity": 14,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
+  },
+  {
+    "title": "Kingdom of Fire 30",
+    "author": "Agatha Christie",
+    "price": 33.12,
+    "publishDate": "2024-04-01T07:51:11.047715",
+    "isbn": "4-8187-5818-9",
+    "quantity": 9,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
+  },
+  {
+    "title": "Chronicles of the Unknown 31",
+    "author": "George R.R. Martin",
+    "price": 12.29,
+    "publishDate": "2019-11-05T07:51:11.047725",
+    "isbn": "8-9117-4819-9",
+    "quantity": 10,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "The Wizard's Journey 32",
+    "author": "Agatha Christie",
+    "price": 12.79,
+    "publishDate": "2012-12-10T07:51:11.047734",
+    "isbn": "7-4922-4598-9",
+    "quantity": 11,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
+  },
+  {
+    "title": "Clues in the Dark 33",
+    "author": "Isaac Asimov",
+    "price": 41.35,
+    "publishDate": "2014-05-30T07:51:11.047745",
+    "isbn": "2-6017-4279-9",
+    "quantity": 6,
+    "categoryId": "895fade1-2c71-49ec-a05c-c8f5e58da74b"
+  },
+  {
+    "title": "The Wizard's Journey 34",
+    "author": "J.R.R. Tolkien",
+    "price": 28.98,
+    "publishDate": "2021-04-04T07:51:11.047755",
+    "isbn": "3-6207-8146-1",
+    "quantity": 18,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
+  },
+  {
+    "title": "Chronicles of the Unknown 35",
+    "author": "Agatha Christie",
+    "price": 37.77,
+    "publishDate": "2017-03-28T07:51:11.047765",
+    "isbn": "5-6959-5353-3",
+    "quantity": 7,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "The Hidden World 36",
+    "author": "J.K. Rowling",
+    "price": 43.61,
+    "publishDate": "2021-02-26T07:51:11.047777",
+    "isbn": "1-1993-6745-6",
+    "quantity": 10,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "Clues in the Dark 37",
+    "author": "J.K. Rowling",
+    "price": 49.01,
+    "publishDate": "2017-02-26T07:51:11.047789",
+    "isbn": "3-7814-5873-5",
+    "quantity": 15,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
+  },
+  {
+    "title": "Kingdom of Fire 38",
+    "author": "George R.R. Martin",
+    "price": 30.01,
+    "publishDate": "2020-04-13T07:51:11.047798",
+    "isbn": "6-6580-7259-6",
+    "quantity": 11,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "Tales of Tomorrow 39",
+    "author": "J.R.R. Tolkien",
+    "price": 17.46,
+    "publishDate": "2021-01-05T07:51:11.047808",
+    "isbn": "3-6457-7858-5",
+    "quantity": 6,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
+  },
+  {
+    "title": "The Wizard's Journey 40",
+    "author": "George R.R. Martin",
+    "price": 13.49,
+    "publishDate": "2013-01-11T07:51:11.047818",
+    "isbn": "9-2020-9014-7",
+    "quantity": 18,
+    "categoryId": "895fade1-2c71-49ec-a05c-c8f5e58da74b"
+  },
+  {
+    "title": "Kingdom of Fire 41",
+    "author": "George R.R. Martin",
+    "price": 36.47,
+    "publishDate": "2017-03-28T07:51:11.047828",
+    "isbn": "7-8474-4898-2",
+    "quantity": 19,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "Chronicles of the Unknown 42",
+    "author": "Isaac Asimov",
+    "price": 14.82,
+    "publishDate": "2016-12-09T07:51:11.047838",
+    "isbn": "9-1591-3362-5",
+    "quantity": 6,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
+  },
+  {
+    "title": "The Hidden World 43",
+    "author": "George R.R. Martin",
+    "price": 18.09,
+    "publishDate": "2020-08-16T07:51:11.047848",
+    "isbn": "6-2146-7427-7",
+    "quantity": 5,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "The Hidden World 44",
+    "author": "J.R.R. Tolkien",
+    "price": 28.58,
+    "publishDate": "2023-03-01T07:51:11.047861",
+    "isbn": "8-5872-7394-2",
+    "quantity": 9,
+    "categoryId": "73939d05-9b87-4a4b-9ed7-39e94b91d942"
+  },
+  {
+    "title": "The Wizard's Journey 45",
+    "author": "George R.R. Martin",
+    "price": 35.58,
+    "publishDate": "2011-08-15T07:51:11.047871",
+    "isbn": "5-8140-5691-3",
+    "quantity": 5,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
+  },
+  {
+    "title": "Tales of Tomorrow 46",
+    "author": "Isaac Asimov",
+    "price": 28.47,
+    "publishDate": "2020-12-09T07:51:11.047881",
+    "isbn": "4-8979-9003-3",
+    "quantity": 6,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
+  },
+  {
+    "title": "Space Chronicles 47",
+    "author": "J.R.R. Tolkien",
+    "price": 49.87,
+    "publishDate": "2016-03-31T07:51:11.047896",
+    "isbn": "2-2618-7839-2",
+    "quantity": 11,
+    "categoryId": "c07e8a4e-176b-464a-9151-b9b4cb8aa00e"
+  },
+  {
+    "title": "Clues in the Dark 48",
+    "author": "J.K. Rowling",
+    "price": 49.25,
+    "publishDate": "2016-07-15T07:51:11.047906",
+    "isbn": "8-7936-2162-7",
+    "quantity": 18,
+    "categoryId": "2fd6e6de-9133-429a-b609-986beb77da39"
+  },
+  {
+    "title": "Clues in the Dark 49",
+    "author": "Isaac Asimov",
+    "price": 22.58,
+    "publishDate": "2015-10-28T07:51:11.047915",
+    "isbn": "8-7551-8145-6",
+    "quantity": 11,
+    "categoryId": "4178b951-237b-4d3c-96d8-8cca7501b88a"
   }
 ]
