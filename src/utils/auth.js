@@ -1,5 +1,8 @@
 const jwt = require("jsonwebtoken");
 
+const jwtSecretAccess = "un secret très très secret";
+const jwtSecretRefresh = "un secret encore plus secret";
+
 function checkBearerToken(req, res, next) {
     const authHeader = req.headers.authorization;
 
@@ -7,6 +10,7 @@ function checkBearerToken(req, res, next) {
         return res.status(401).json({ error: "Missing Authorization header" });
     }
 
+    // Bearer abcdef.dfff.5555
     const parts = authHeader.split(" ");
     if (parts.length !== 2 || parts[0] !== "Bearer") {
         return res.status(401).json({ error: "Invalid Authorization format" });
@@ -20,6 +24,7 @@ function checkBearerToken(req, res, next) {
         next();
     });
 }
+
 function sendTokens(res, email) {
     const refreshToken = jwt.sign({ email }, jwtSecretRefresh, {
         expiresIn: "1d",
@@ -38,5 +43,7 @@ function sendTokens(res, email) {
 
 module.exports = {
     checkBearerToken,
-    sendTokens
+    sendTokens,
+    jwtSecretRefresh,
+    jwtSecretAccess
 };
