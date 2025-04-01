@@ -47,6 +47,8 @@ router.get("/best-reviews", async (req, res) => {
 });
 
 router.get('/average-price', checkBearerToken, async (req, res) => {
+  console.log('req.user');
+  console.log(req.user);
   const stats = await Book.aggregate([
     {
       $group: {
@@ -59,6 +61,32 @@ router.get('/average-price', checkBearerToken, async (req, res) => {
   res.json(stats);
 });
 
+
+router.get("/top-reviewers", async (req, res) => {
+  try {
+    const pipeline = [
+      // Sépare chaque review en un document distinct
+      { $unwind: "$reviews" },
+      // Regroupe par nom d'utilisateur, et compte le nombre de reviews
+      {
+        $group: {
+          _id: "$reviews.user",
+          totalReviews: { $sum: 1 },
+          averageReview: {$avg: '$reviews.rating'}
+        },
+      },
+      // Trie du plus grand nombre de reviews au plus petit
+      { $sort: { totalReviews: -1 } },
+    ];
+
+    const result = await Book.aggregate(pipeline);
+
+    res.json(result);
+  } catch (err) {
+    console.error("Erreur lors de l'agrégation:", err);
+    res.status(500).json({ error: err.message });
+  }
+});
 router.get('/:id', async (req, res) => {
   const {id} = req.params;
   if (!id) {
