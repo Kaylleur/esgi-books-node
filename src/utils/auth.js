@@ -27,9 +27,9 @@ function checkBearerToken(req, res, next) {
 
 function sendTokens(res, email) {
     const refreshToken = jwt.sign({ email }, jwtSecretRefresh, {
-        expiresIn: "1d",
+        expiresIn: "2d",
     });
-    const accessToken = jwt.sign({ email }, jwtSecretAccess, { expiresIn: "2m" });
+    const accessToken = jwt.sign({ email }, jwtSecretAccess, { expiresIn: "1d" });
     return res
         .cookie("refreshToken", refreshToken, {
             httpOnly: true,

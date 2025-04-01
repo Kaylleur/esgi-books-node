@@ -7,7 +7,15 @@ const bookSchema = new mongoose.Schema({
   publishDate: { type: Date, required: true },
   isbn: { type: String, required: true },
   quantity: { type: Number, required: true },
-  categoryId: String
+  categoryId: String,
+  category: { type: mongoose.Schema.Types.ObjectId, ref: "Category" },
+  reviews: [
+    {
+      user: { type: String, required: true },
+      message: { type: String, required: true },
+      rating: { type: Number, required: true },
+    }
+  ]
 })
 
 module.exports = mongoose.model('Book', bookSchema);

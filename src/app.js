@@ -14,9 +14,11 @@ app.use(express.json());
 const userRoutes = require('./routes/user');
 const bookRoutes = require('./routes/book');
 const authRoutes = require('./routes/auth');
+const categoryRoutes = require('./routes/category');
 app.use('/api/users', userRoutes)
 app.use('/api/books', bookRoutes)
 app.use('/api/auth', authRoutes)
+app.use('/api/categories', categoryRoutes)
 
 
 app.listen(port, () => {

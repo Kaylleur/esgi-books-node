@@ -37,7 +37,6 @@ router.get("/refresh", (req, res) => {
       return res.status(401).json({ error: "Invalid or expired token" });
     }
 
-    console.log(decoded);
     sendTokens(res, decoded.email);
   });
 });
